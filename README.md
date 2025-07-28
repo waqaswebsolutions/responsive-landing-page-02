@@ -40,7 +40,7 @@ This is a fully responsive landing page built using **HTML5** and **CSS3**. Itâ€
 
 ## ðŸ“¸ Preview
 
-![Landing Page Screenshot](./Design to Code.png)
+![Landing Page Screenshot](./designtocode.png)
 
 ---
 
