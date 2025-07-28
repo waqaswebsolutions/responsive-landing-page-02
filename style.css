@@ -84,7 +84,7 @@ main {
     width: 40%;
     height: 100%;
     border-radius: 2vw;
-    background-image: url(/Images/1.jpg);
+  background-image: url("/responsive-landing-page-02/Images/1.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -94,7 +94,7 @@ main {
     width: 40%;
     height: 100%;
     border-radius: 2vw;
-    background-image: url(/Images/2.jpg);
+    background-image: url("/responsive-landing-page-02/Images/2.jpg");
     background-size: cover;
     background-position: center
 }
@@ -105,7 +105,7 @@ main {
     /* background-color: aliceblue; */
     border-radius: 1vw;
     background-image: url;
-    background-image: url(/Images/3.jpg);
+      background-image: url("/responsive-landing-page-02/Images/3.jpg");
     background-size: cover;
     background-position: center
 }
@@ -115,7 +115,7 @@ main {
     width: 25%;
     /* background-color: bisque; */
     border-radius: 1vw;
-    background-image: url(/Images/4.jpg);
+      background-image: url("/responsive-landing-page-02/Images/4.jpg");
     background-size: cover;
     background-position: center
 }
@@ -125,7 +125,7 @@ main {
     width: 25%;
     /* background-color: aquamarine; */
     border-radius: 1vw;
-    background-image: url(/Images/5.jpg);
+      background-image: url("/responsive-landing-page-02/Images/5.jpg");
     background-size: cover;
     background-position: center
 }
